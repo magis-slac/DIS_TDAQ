@@ -1,0 +1,6 @@
+{
+	"TriggerName": "Example Software Trigger",
+	"TriggerSource": "Software",
+	"TriggerActivationType": "Software",
+	"TriggerTiming": 500000
+}

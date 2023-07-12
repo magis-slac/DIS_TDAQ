@@ -1,0 +1,6 @@
+{
+	"TriggerName": "Example Hardware Trigger",
+	"TriggerSource": "Hardware",
+	"TriggerActivationType": "LevelHigh",
+	"TriggerTiming": 500000
+}
