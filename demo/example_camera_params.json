@@ -1,0 +1,41 @@
+{
+	"Node": 1,
+	"Cameras": {
+		"HM": {
+			"InUse": false,
+			"DeviceID": "ABCD1111",
+			"AcquisitionMode": "Continuous",
+			"ShutterMode": "Global",
+			"ADCBitDepth": 12,
+			"PixelFormat": "Mono16",
+			"Exposure": 250000
+		},
+		"LM1": {
+			"InUse": true,
+			"DeviceID": "22158653",
+			"AcquisitionMode": "Continuous",
+			"ShutterMode": "Global",
+			"ADCBitDepth": 12,
+			"PixelFormat": "Mono16",
+			"Exposure": 250000
+		},
+		"LM2": {
+			"InUse": true,
+			"DeviceID": "23199796",
+			"AcquisitionMode": "Continuous",
+			"ShutterMode": "Global",
+			"AdcBitDepth": "Bit12",
+			"PixelFormat": "Mono16",
+			"Exposure": 250000,
+			"Width": 2500,
+			"Height": 2456,
+			"OffsetX": 28,
+			"OffsetY": 2,
+			"Gain": 2.86,
+			"StreamBufferHandlingMode": "OldestFirst",
+			"UserSet": true
+			
+			
+		}
+	}
+}
