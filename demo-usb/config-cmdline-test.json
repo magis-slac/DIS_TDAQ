@@ -1,0 +1,8 @@
+{
+	"TriggerName": "Example Hardware Trigger From Command Line",
+	"TriggerSource": "Hardware",
+	"TriggerActivationType": "LevelLow",
+	"TriggerTiming": 5000,
+	"ExitOnError" : true, 
+	"RunUntil" : 30
+}

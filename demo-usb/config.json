@@ -1,0 +1,8 @@
+{
+	"TriggerName": "Example Hardware Trigger",
+	"TriggerSource": "Hardware",
+	"TriggerActivationType": "RisingEdge",
+	"TriggerTiming": 2500,
+	"ExitOnError" : true, 
+	"RunUntil" : 30
+}
